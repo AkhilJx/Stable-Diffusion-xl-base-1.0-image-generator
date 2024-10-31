@@ -8,6 +8,7 @@ It is a hugging-face model and hence open source.
 refer to the site for more details: 
 
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+
 https://github.com/Stability-AI/generative-models
 
 
