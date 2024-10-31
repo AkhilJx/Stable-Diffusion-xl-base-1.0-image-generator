@@ -5,7 +5,9 @@ This is a high-end stable diffusion model. Since it is a high-end model, it requ
 
 It is a hugging-face model and hence open source.
 
-refer to the site for more details: 
+
+
+Refer to the site for more details: 
 
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 
